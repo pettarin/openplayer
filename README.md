@@ -31,7 +31,7 @@ A music and podcast player for Garmin smartwatches, syncing with Jellyfin media 
 
 ## Supported Devices
 
-Over 60 Garmin smartwatch models are supported:
+Over 70 Garmin smartwatch models are supported:
 
 - **Fenix:** Fenix 5 Plus / 5S Plus / 5X Plus, Fenix 6 Pro / 6S Pro / 6X Pro, Fenix 7 / 7S / 7X (and Pro models), Fenix 8 (43mm, 47mm, Pro, Solar), Fenix 9 (43mm, 47mm, Pro, Pro Solar), Fenix E
 - **Forerunner:** FR165 Music, FR170 Music, FR245 Music, FR255 Music / 255S Music, FR265 / 265S, FR570, FR745, FR945 / LTE, FR955, FR965, FR970
@@ -39,7 +39,7 @@ Over 60 Garmin smartwatch models are supported:
 - **Vivoactive:** Vivoactive 3 Music / LTE, Vivoactive 4 / 4S, Vivoactive 5, Vivoactive 6
 - **Enduro:** Enduro 3, Enduro 4
 - **Epix:** Epix (Gen 2), Epix Pro (42mm, 47mm, 51mm)
-- **MARQ & D2:** MARQ (Gen 2), MARQ (Gen 2) Aviator, D2 Mach 2 Pro
+- **MARQ & D2:** MARQ (Gen 1: Adventurer, Athlete, Aviator, Captain, Commander, Driver, Expedition, Golfer), MARQ (Gen 2 / Aviator), MARQ (Gen 3), D2 Mach 2 Pro
 
 ## Server URL and HTTPS
 
